@@ -1,0 +1,33 @@
+.NameSurname {
+    color: white;
+    background-color: green;
+}
+
+.HelloWorld {
+    color: green;
+    background-color: lightgray;
+}
+
+table, th, td {
+    border-collapse: collapse
+}
+
+th {
+    border: 4px solid black;
+    background-color: rebeccapurple;
+}
+
+td {
+    border: 4px solid black;
+    background-color: deepskyblue;
+}
+
+.Video {
+    width: 300px;
+    height: 220px;
+}
+
+.Image {
+    width: 172px;
+    height: 172px;
+}
